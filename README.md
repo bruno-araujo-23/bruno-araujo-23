@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruno-araujo-23
 - 👀 I’m interested in data science, data analytics and development of systems applied to agriculture and health systems using AI. 
-- 🌱 I’m currently learning data science in general, business and development.
+- 🌱 I’m currently learning data science in general, business and development. So, I'll try to share my progress here, with educational purposes only.
 - 💞️ I’m looking to collaborate on many projects about agriculture 4.0 and envolving life quality (food, health, well being).
 - 📫 How to reach me? bruno230623@gmail.com
 
